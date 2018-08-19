@@ -1,0 +1,61 @@
+{
+	"details":{
+		"image":"profile.svg",
+		 "name":"sirisha",
+		 "number":"16NN1A0572",
+		 "email":"sirishakarumudiv@gmail.com",
+		 "address":"vignan nirula"
+
+	},
+	"career":{
+		"info":"to pursue a challenging career and to be a passion"
+
+	},
+	"education":[
+		
+		{
+			"qualification":"B.tech",
+			"institute":"vignan nirula",
+			"year":"2016-2020",
+			"percentage":"78%"
+		},
+		{
+			"qualification":"inter",
+			"institute":"sri chaithanya",
+			"year":"2016",
+			"percentage":"92%"
+		},
+		{
+			"qualification":"ssc",
+			"institute":"sri sai concept school",
+			"year":"2014",
+			"percentage":"92%"
+		}
+	],
+	"technical":[
+		{
+	    "title":"programming lnguages",
+	     "info":["c","c++","java","python","ruby"]
+
+	},
+	 {
+	 	"title":"os",
+	 	"info":["unix,linux,macos,android"]
+	 },
+	 {
+	 	"title":"data base", 
+	 	"info" :"sql,mysql"
+	 }
+	],
+	"acheivments":[
+		{
+			 
+			"info":"got first prize in ppt in srujanakura 2018"
+		},
+		{
+			 
+			"info":"got district 10th in sfi exam "
+		}
+	]
+    
+}
